@@ -4,5 +4,8 @@
   "obsidian-kindle-plugin",
   "youtube-summarizer",
   "obsidian-textgenerator-plugin",
-  "syncthing-integration"
+  "syncthing-integration",
+  "obsidian-folder-index",
+  "templater-obsidian",
+  "dataview"
 ]

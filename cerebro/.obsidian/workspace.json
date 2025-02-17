@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c6d07fdce81105a",
+        "id": "2c5532f1d19a71d0",
         "type": "tabs",
         "children": [
           {
-            "id": "092751ca8ca6953d",
+            "id": "346cee5cf93d5226",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Projetos/Formação Dev/Curso CSS/Curso CSS.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Curso CSS"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 235.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "72fbfc076f27df9c",
@@ -166,29 +171,47 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "092751ca8ca6953d",
+  "active": "346cee5cf93d5226",
   "lastOpenFiles": [
+    "03-Recursos/templates/Curso.md",
+    "01-Projetos/Formação Dev/Curso CSS/Curso CSS.md",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Exercicios.md",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Seletores.md",
+    "03-Recursos/templates/Capitulo.md",
+    "03-Recursos/templates/Aula.md",
+    "03-Recursos/templates/Curso",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Introdução.md",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Seletores 01.md",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Seletores 02.md",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração com html.md",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 03.md",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 02.md",
+    "Aula 01.md",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 01.md",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/O que é css.md",
+    "03-Recursos/templates",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html",
+    "03-Recursos/Imagens/o-que-e-CSS.png",
+    "03-Recursos/Imagens",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução",
+    "01-Projetos/Curso-Metodo-PARA/Curso Método PARA.md",
+    "01-Projetos/Formação Dev/Curso CSS",
+    "01-Projetos/Curso-Metodo-PARA/Definição.md",
     "01-Projetos/curso-obsidian/Primeira Nota.md",
     "01-Projetos/curso-obsidian/Terceira Nota.md",
-    "01-Projetos/curso-metodo-para/Definição.md",
     "01-Projetos/curso-obsidian/Principais funcionalidades.md",
     "03-Recursos/definicoes/Python.md",
     "01-Projetos/curso-obsidian/Segunda nota.md",
     "03-Recursos/definicoes",
-    "01-Projetos/curso-metodo-para/organizacao.md",
-    "01-Projetos/formacao-dev",
+    "01-Projetos/Curso-Metodo-PARA/organizacao.md",
+    "01-Projetos/Formação Dev",
     "01-Projetos/curso-obsidian",
-    "01-Projetos/curso-metodo-para",
-    "05-Caixa-de-entrada",
-    "04-Arquivos",
-    "03-Recursos",
-    "02-Areas",
-    "01-Projetos",
     "desenhos/exemplo-1.md",
-    "temp",
     "Welcome.md"
   ]
 }

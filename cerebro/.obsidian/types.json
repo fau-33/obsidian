@@ -25,6 +25,9 @@
     "excalidraw-open-md": "checkbox",
     "Data inicio": "date",
     "Data fim": "date",
-    "Complexo": "checkbox"
+    "Complexo": "checkbox",
+    "Status": "text",
+    "Ordem": "number",
+    "Data": "date"
   }
 }

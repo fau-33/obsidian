@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiCode2",
-      "LiGrid2x2",
-      "LiFiles",
-      "🟩",
-      "🌎"
+      "3️⃣",
+      "2️⃣",
+      "1️⃣",
+      "LiBraces",
+      "LiFolderCode"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,7 +39,11 @@
   "04-Arquivos": "📁",
   "03-Recursos": "🌎",
   "02-Areas": "🟩",
-  "01-Projetos/curso-metodo-para": "LiGrid2x2",
   "01-Projetos/curso-obsidian": "LiFiles",
-  "01-Projetos/formacao-dev": "LiCode2"
+  "01-Projetos/Curso-Metodo-PARA": "LiGrid2x2",
+  "01-Projetos/Formação Dev": "LiFolderCode",
+  "01-Projetos/Formação Dev/Curso CSS": "LiBraces",
+  "01-Projetos/Formação Dev/Curso CSS/Introdução/Introdução.md": "1️⃣",
+  "01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html": "2️⃣",
+  "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores": "3️⃣"
 }
