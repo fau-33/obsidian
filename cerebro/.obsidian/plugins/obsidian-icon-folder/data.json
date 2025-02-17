@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiCode2",
+      "LiGrid2x2",
+      "LiFiles",
+      "🟩",
+      "🌎"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "01-Projetos": "🚀",
+  "05-Caixa-de-entrada": "📥",
+  "04-Arquivos": "📁",
+  "03-Recursos": "🌎",
+  "02-Areas": "🟩",
+  "01-Projetos/curso-metodo-para": "LiGrid2x2",
+  "01-Projetos/curso-obsidian": "LiFiles",
+  "01-Projetos/formacao-dev": "LiCode2"
+}

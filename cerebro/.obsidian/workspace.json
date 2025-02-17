@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "8730fe6292e7533b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c6d07fdce81105a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "092751ca8ca6953d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26ffa1386cca4719",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c67b4869f32e969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3df68fb718d0e2ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "363c95b11bbdae9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da0b9a427a783909",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "72fbfc076f27df9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e65e98e8f8753156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b8dc6ea13d347b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-Projetos/curso-obsidian/Segunda nota.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Segunda nota"
+            }
+          },
+          {
+            "id": "d6fcebaed81f783a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01-Projetos/curso-obsidian/Segunda nota.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Segunda nota"
+            }
+          },
+          {
+            "id": "ba1f2c9e61ac425e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "54f9cc03e13ea830",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01-Projetos/curso-obsidian/Segunda nota.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Segunda nota"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "syncthing-integration:Open Syncthing conflict manager modal": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "092751ca8ca6953d",
+  "lastOpenFiles": [
+    "01-Projetos/curso-obsidian/Primeira Nota.md",
+    "01-Projetos/curso-obsidian/Terceira Nota.md",
+    "01-Projetos/curso-metodo-para/Definição.md",
+    "01-Projetos/curso-obsidian/Principais funcionalidades.md",
+    "03-Recursos/definicoes/Python.md",
+    "01-Projetos/curso-obsidian/Segunda nota.md",
+    "03-Recursos/definicoes",
+    "01-Projetos/curso-metodo-para/organizacao.md",
+    "01-Projetos/formacao-dev",
+    "01-Projetos/curso-obsidian",
+    "01-Projetos/curso-metodo-para",
+    "05-Caixa-de-entrada",
+    "04-Arquivos",
+    "03-Recursos",
+    "02-Areas",
+    "01-Projetos",
+    "desenhos/exemplo-1.md",
+    "temp",
+    "Welcome.md"
+  ]
+}

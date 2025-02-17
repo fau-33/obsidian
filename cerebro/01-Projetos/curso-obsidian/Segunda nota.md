@@ -1,0 +1,3 @@
+[[Python]] é uma linguagem...
+
+![[Primeira Nota#3.Listas]]
