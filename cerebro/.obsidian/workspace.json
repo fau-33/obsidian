@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.51103591918945,
-    "collapsed": true
+    "width": 235.51103591918945
   },
   "right": {
     "id": "72fbfc076f27df9c",
@@ -151,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Segunda nota"
             }
+          },
+          {
+            "id": "ed113a0120c78a8d",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,10 +181,11 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "346cee5cf93d5226",
+  "active": "ed113a0120c78a8d",
   "lastOpenFiles": [
     "03-Recursos/templates/Curso.md",
     "01-Projetos/Formação Dev/Curso CSS/Curso CSS.md",
