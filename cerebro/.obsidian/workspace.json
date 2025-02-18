@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2c5532f1d19a71d0",
+        "id": "36f01057aecb3156",
         "type": "tabs",
         "children": [
           {
-            "id": "346cee5cf93d5226",
+            "id": "4268e2d839da2323",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Projetos/Formação Dev/Curso CSS/Curso CSS.md",
-                "mode": "preview",
+                "file": "01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/Anatomia da Tag.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curso CSS"
+              "title": "Anatomia da Tag"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,16 +186,34 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "ed113a0120c78a8d",
+  "active": "4268e2d839da2323",
   "lastOpenFiles": [
-    "03-Recursos/templates/Curso.md",
-    "01-Projetos/Formação Dev/Curso CSS/Curso CSS.md",
-    "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Exercicios.md",
+    "01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/tag-conceito.md",
+    "01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/Anatomia da Tag.md",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Introdução.md",
     "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Seletores.md",
+    "01-Projetos/Formação Dev/Curso HTML/Curso HTML.md",
+    "01-Projetos/Formação Dev/Curso CSS/Curso CSS.md",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/O que é css.md",
+    "01-Projetos/Formação Dev/Curso HTML/Introdução/Introdução.md",
+    "01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/02 - iniciando-com-html.md",
+    "01-Projetos/Formação Dev/Curso HTML/Introdução/O que é HTML.md",
+    "01-Projetos/Formação Dev/Curso HTML/Introdução",
+    "01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/html-conceito.md",
+    "Excalidraw/Scripts/Downloaded/Invert colors.svg",
+    "Excalidraw/Scripts/Downloaded/Invert colors.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html",
+    "01-Projetos/Formação Dev/Curso HTML/Introdução/01-comece-aqui/01-comece-aqui.md",
+    "01-Projetos/Formação Dev/Curso HTML/Introdução/01-comece-aqui",
+    "01-Projetos/Formação Dev/Curso HTML",
+    "03-Recursos/templates/Curso.md",
+    "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Exercicios.md",
     "03-Recursos/templates/Capitulo.md",
     "03-Recursos/templates/Aula.md",
     "03-Recursos/templates/Curso",
-    "01-Projetos/Formação Dev/Curso CSS/Introdução/Introdução.md",
     "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Seletores 01.md",
     "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Seletores 02.md",
     "01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração com html.md",
@@ -203,25 +222,9 @@
     "Aula 01.md",
     "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores",
     "01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 01.md",
-    "01-Projetos/Formação Dev/Curso CSS/Introdução/O que é css.md",
     "03-Recursos/templates",
-    "01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html",
     "03-Recursos/Imagens/o-que-e-CSS.png",
-    "03-Recursos/Imagens",
-    "01-Projetos/Formação Dev/Curso CSS/Introdução",
     "01-Projetos/Curso-Metodo-PARA/Curso Método PARA.md",
-    "01-Projetos/Formação Dev/Curso CSS",
-    "01-Projetos/Curso-Metodo-PARA/Definição.md",
-    "01-Projetos/curso-obsidian/Primeira Nota.md",
-    "01-Projetos/curso-obsidian/Terceira Nota.md",
-    "01-Projetos/curso-obsidian/Principais funcionalidades.md",
-    "03-Recursos/definicoes/Python.md",
-    "01-Projetos/curso-obsidian/Segunda nota.md",
-    "03-Recursos/definicoes",
-    "01-Projetos/Curso-Metodo-PARA/organizacao.md",
-    "01-Projetos/Formação Dev",
-    "01-Projetos/curso-obsidian",
-    "desenhos/exemplo-1.md",
-    "Welcome.md"
+    "01-Projetos/Curso-Metodo-PARA/Definição.md"
   ]
 }
