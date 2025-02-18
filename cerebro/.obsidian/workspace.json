@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "36f01057aecb3156",
+        "id": "b3c15b4303f70f43",
         "type": "tabs",
         "children": [
           {
-            "id": "4268e2d839da2323",
+            "id": "80e8de5bc01e6c26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/Anatomia da Tag.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Anatomia da Tag"
+              "title": "Nova aba"
             }
           }
         ]
@@ -186,10 +182,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4268e2d839da2323",
+  "active": "80e8de5bc01e6c26",
   "lastOpenFiles": [
-    "01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/tag-conceito.md",
+    "01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/html-anatomia.md",
     "01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/Anatomia da Tag.md",
+    "01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/tag-conceito.md",
     "01-Projetos/Formação Dev/Curso CSS/Introdução/Introdução.md",
     "01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Seletores.md",
     "01-Projetos/Formação Dev/Curso HTML/Curso HTML.md",
@@ -224,7 +221,6 @@
     "01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 01.md",
     "03-Recursos/templates",
     "03-Recursos/Imagens/o-que-e-CSS.png",
-    "01-Projetos/Curso-Metodo-PARA/Curso Método PARA.md",
-    "01-Projetos/Curso-Metodo-PARA/Definição.md"
+    "01-Projetos/Curso-Metodo-PARA/Curso Método PARA.md"
   ]
 }
