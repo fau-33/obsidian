@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "ac33837f392bc82e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4b474ebe7807cbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87f96297de5e8841",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "cerebro/01-Projetos/Formação Dev/Curso CSS/conceito-css.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "conceito-css"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "152ba3a0134cc9f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e7fa11750e1bfa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89ddb7d2e444a2cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "4894573649dfdfe7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "0158c6e01b8cc331",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "fa20177e36739d9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "25389736672678b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4efc048ab188ed8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cerebro/03-Recursos/templates/Curso.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Curso"
+            }
+          },
+          {
+            "id": "87b76a8663524c50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cerebro/03-Recursos/templates/Curso.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Curso"
+            }
+          },
+          {
+            "id": "54dad62c888997b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3b7f866b9f1b9673",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cerebro/03-Recursos/templates/Curso.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Curso"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "89ddb7d2e444a2cc",
+  "lastOpenFiles": [
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/conceito-css.md",
+    "cerebro/Excalidraw/Scripts/Downloaded/Invert colors.svg",
+    "cerebro/03-Recursos/templates/Capitulo.md",
+    "cerebro/03-Recursos/templates/Aula.md",
+    "cerebro/03-Recursos/Imagens/o-que-e-CSS.png",
+    "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/html-conceito.md",
+    "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/Anatomia da Tag.md",
+    "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/02 - iniciando-com-html.md",
+    "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/01-comece-aqui/01-comece-aqui.md",
+    "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/html-anatomia.md",
+    "cerebro/01-Projetos/curso-obsidian/Primeira Nota.md"
+  ]
+}
