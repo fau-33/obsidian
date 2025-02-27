@@ -1,7 +1,7 @@
 ---
 Data inicio: 2025-02-17
-Data fim: 
-Status: 💪 Em execução
+Data fim: 17/02/2025
+Status: ✅ Concluído
 tags:
   - curso
   - formacao-dev

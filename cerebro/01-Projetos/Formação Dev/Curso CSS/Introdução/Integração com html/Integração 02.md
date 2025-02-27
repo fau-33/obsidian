@@ -1,7 +1,7 @@
 ---
 Ordem: 2
 Data: 
-Status: 🔴 Não iniciado
+Status: ✅ Concluído
 tags:
   - aula
   - curso
@@ -9,11 +9,11 @@ tags:
 
 ## Estrutura
 
- *Estrutura da aula que foi ministrada no curso...*
+ ![[Captura de tela de 2025-02-27 15-05-17.png]]
 
 ## Minhas Observações
 
-*adicionar minhas observações e complementos*
+Segundo modo de coloca estilo no HTML do jeito interno
 
 ## Referências
 

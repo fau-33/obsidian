@@ -1,8 +1,8 @@
 ---
-Ordem: 3
+Ordem: 5
 Data inicio: 2025-02-27
 Data fim: 27/02/2025
-Status: ✅ Concluído
+Status: 🔴 Não iniciado
 tags:
   - curso
   - capitulo
@@ -19,6 +19,3 @@ Sort Ordem
 
 
 ## Resumo do capítulo
-
-
-
