@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4150f90142db06c0",
+        "id": "d7f2e95a7aa8fa7e",
         "type": "tabs",
         "children": [
           {
-            "id": "35a32ebf47a4bc86",
+            "id": "27500522138096ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  1.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "flexbox  1"
             }
           }
         ]
@@ -166,8 +170,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "35a32ebf47a4bc86",
+  "active": "27500522138096ce",
   "lastOpenFiles": [
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Introdução.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  6.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  5.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  4.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  3.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  2.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  1.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/box model/box model 1.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/box model/box model.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/flexbox.md",
+    "cerebro/Excalidraw/Scripts/Downloaded/Invert colors.svg",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 02.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 01.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/box-model.md",
+    "cerebro/01-Projetos/Formação Dev/Curso CSS/anatomia CSS.md",
     "cerebro/01-Projetos/Formação Dev/Curso HTML/Curso HTML.md",
     "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/Anatomia da Tag.md",
     "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/02 - iniciando-com-html.md",
@@ -175,25 +197,12 @@
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Exercicios.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Seletores.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/position/position.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 01.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 02.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 03.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração com html.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/position/position 1.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/position/position 2.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/box model/box model 1.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/box model/box model.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/position",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/anatomia CSS.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/box model/box model 2.md",
     "Captura de tela de 2025-02-27 20-03-23.png",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/box-model.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/box-model.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/conceito-css.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Seletores 02.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Seletores/Seletores 01.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/box model",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Introdução.md",
     "Captura de tela de 2025-02-27 18-03-36.png",
     "Captura de tela de 2025-02-27 18-02-36.png",
     "Captura de tela de 2025-02-27 18-01-44.png",
@@ -201,10 +210,6 @@
     "Captura de tela de 2025-02-27 17-59-32.png",
     "Captura de tela de 2025-02-27 17-57-55.png",
     "Captura de tela de 2025-02-27 17-56-39.png",
-    "Captura de tela de 2025-02-27 17-55-18.png",
-    "Captura de tela de 2025-02-27 17-53-18.png",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/O que é css.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Curso CSS.md",
-    "cerebro/03-Recursos/templates/Capitulo.md"
+    "Captura de tela de 2025-02-27 17-55-18.png"
   ]
 }
