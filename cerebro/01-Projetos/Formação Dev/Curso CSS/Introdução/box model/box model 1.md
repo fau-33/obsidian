@@ -1,5 +1,5 @@
 ---
-Ordem: 1
+Ordem: "1"
 Data: 2025-02-27
 Status: ✅ Concluído
 tags:
