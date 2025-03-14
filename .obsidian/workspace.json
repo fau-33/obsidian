@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e875363bdd0a8b3a",
+        "id": "a1b03841f7da86e2",
         "type": "tabs",
         "children": [
           {
-            "id": "32fc2c8d6dba620d",
+            "id": "655908dc426af31d",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/Algoritmos.md"
+                "file": "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/organização/organização.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "Algoritmos"
+              "icon": "lucide-file",
+              "title": "organização"
             }
           }
         ]
@@ -42,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "fa20177e36739d9b",
@@ -159,25 +160,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "32fc2c8d6dba620d",
+  "active": "655908dc426af31d",
   "lastOpenFiles": [
-    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/Algoritmos.md",
     "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/fundamentos/fundamentos.md",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/organização/organização.md",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/organização",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/estrutura dados.md",
+    "Excalidraw/Scripts/Downloaded/Invert colors.svg",
+    "Excalidraw/Scripts/Downloaded/Invert colors.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Captura de tela de 2025-02-27 15-05-17.png",
+    "cerebro/03-Recursos/Imagens/o-que-e-CSS.png",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/Algoritmos.md",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/programação.md",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/Curso JAVASCRIPT.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/box model/box model 1.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/box model/box model.md",
-    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/programação.md",
     "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/fundamentos",
-    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/Curso JAVASCRIPT.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Curso CSS.md",
     "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução",
     "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT",
@@ -199,9 +210,6 @@
     "cerebro/Excalidraw/Scripts/Downloaded/Invert colors.svg",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 02.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 01.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/anatomia CSS.md",
-    "cerebro/01-Projetos/Formação Dev/Curso HTML/Curso HTML.md",
-    "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/Anatomia da Tag.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/position",
     "Captura de tela de 2025-02-27 20-03-23.png",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/box model",
@@ -209,9 +217,6 @@
     "Captura de tela de 2025-02-27 18-02-36.png",
     "Captura de tela de 2025-02-27 18-01-44.png",
     "Captura de tela de 2025-02-27 18-00-41.png",
-    "Captura de tela de 2025-02-27 17-59-32.png",
-    "Captura de tela de 2025-02-27 17-57-55.png",
-    "Captura de tela de 2025-02-27 17-56-39.png",
-    "Captura de tela de 2025-02-27 17-55-18.png"
+    "Captura de tela de 2025-02-27 17-59-32.png"
   ]
 }
