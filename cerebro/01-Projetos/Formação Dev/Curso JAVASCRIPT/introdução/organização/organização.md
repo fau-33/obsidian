@@ -2,7 +2,7 @@
 Ordem: "2"
 Data inicio: 2025-03-12
 Data fim: 
-Status: 💪 Em execução
+Status: ✅ Concluído
 tags:
   - curso
   - capitulo

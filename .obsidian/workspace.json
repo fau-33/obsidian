@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a1b03841f7da86e2",
+        "id": "19bf3b4ff19a8895",
         "type": "tabs",
         "children": [
           {
-            "id": "655908dc426af31d",
+            "id": "3cd9c9d738880863",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/organização/organização.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "organização"
+              "title": "New tab"
             }
           }
         ]
@@ -170,12 +166,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "655908dc426af31d",
+  "active": "89ddb7d2e444a2cc",
   "lastOpenFiles": [
-    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/fundamentos/fundamentos.md",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/Curso JAVASCRIPT.md",
+    "cerebro/01-Projetos/Formação Dev/Curso HTML/Curso HTML.md",
+    "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/02 - iniciando-com-html.md",
+    "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/html-conceito.md",
+    "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/html-anatomia.md",
+    "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/Anatomia da Tag.md",
+    "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/01-comece-aqui/01-comece-aqui.md",
+    "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/Introdução.md",
     "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/organização/organização.md",
-    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/organização",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/programação.md",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/operadores/operadores.md",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/operadores",
     "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/estrutura dados.md",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/Algoritmos.md",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/fundamentos/fundamentos.md",
+    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/organização",
     "Excalidraw/Scripts/Downloaded/Invert colors.svg",
     "Excalidraw/Scripts/Downloaded/Invert colors.md",
     "Excalidraw/Scripts/Downloaded",
@@ -183,9 +191,6 @@
     "Excalidraw",
     "Captura de tela de 2025-02-27 15-05-17.png",
     "cerebro/03-Recursos/Imagens/o-que-e-CSS.png",
-    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/Algoritmos.md",
-    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/programação.md",
-    "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/Curso JAVASCRIPT.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/box model/box model 1.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/box model/box model.md",
     "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/fundamentos",
@@ -200,19 +205,10 @@
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Introdução.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  6.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  5.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  4.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  3.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  2.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/flexbox.md",
     "cerebro/Excalidraw/Scripts/Downloaded/Invert colors.svg",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 02.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Integração com html/Integração 01.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/position",
     "Captura de tela de 2025-02-27 20-03-23.png",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/box model",
     "Captura de tela de 2025-02-27 18-03-36.png",
     "Captura de tela de 2025-02-27 18-02-36.png",
     "Captura de tela de 2025-02-27 18-01-44.png",
