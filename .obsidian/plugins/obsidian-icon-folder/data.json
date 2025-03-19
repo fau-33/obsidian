@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCode",
       "LiCalculator",
       "LiBookTemplate",
       "LiImage",
@@ -39,5 +40,6 @@
   "cerebro/03-Recursos/Imagens": "LiImage",
   "cerebro/03-Recursos/definicoes": "LiFile",
   "cerebro/03-Recursos/templates": "LiBookTemplate",
-  "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/operadores": "LiCalculator"
+  "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/introdução/operadores": "LiCalculator",
+  "cerebro/01-Projetos/flavioportlolio": "LiCode"
 }

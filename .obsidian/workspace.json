@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "19bf3b4ff19a8895",
+        "id": "47cbb0d4226e58f1",
         "type": "tabs",
         "children": [
           {
-            "id": "3cd9c9d738880863",
+            "id": "1d63ef0ea3d41f42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "cerebro/01-Projetos/flavioportlolio/senha supabase.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "senha supabase"
             }
           }
         ]
@@ -166,8 +170,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "89ddb7d2e444a2cc",
+  "active": "1d63ef0ea3d41f42",
   "lastOpenFiles": [
+    "cerebro/01-Projetos/flavioportlolio/senha supabase.md",
+    "cerebro/01-Projetos/flavioportlolio/desenhos/tarefas.md",
+    "cerebro/01-Projetos/flavioportlolio/desenhos/visao-geral.md",
+    "cerebro/01-Projetos/flavioportlolio/desenhos/Untitled.md",
+    "cerebro/01-Projetos/flavioportlolio/desenhos",
+    "cerebro/01-Projetos/flavioportlolio",
     "cerebro/01-Projetos/Formação Dev/Curso JAVASCRIPT/Curso JAVASCRIPT.md",
     "cerebro/01-Projetos/Formação Dev/Curso HTML/Curso HTML.md",
     "cerebro/01-Projetos/Formação Dev/Curso HTML/Introdução/02-iniciando-com-html/02 - iniciando-com-html.md",
@@ -201,13 +211,7 @@
     "cerebro/01-Projetos/Formação Dev/Curso CSS/box-model.md",
     "cerebro/01-Projetos/curso-metodo-para/Curso Método PARA.md",
     "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  1.md",
-    "cerebro/01-Projetos/curso-obsidian/Primeira Nota.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/Introdução.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox/flexbox  6.md",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/flexbox",
     "cerebro/Excalidraw/Scripts/Downloaded/Invert colors.svg",
-    "cerebro/01-Projetos/Formação Dev/Curso CSS/Introdução/position",
     "Captura de tela de 2025-02-27 20-03-23.png",
     "Captura de tela de 2025-02-27 18-03-36.png",
     "Captura de tela de 2025-02-27 18-02-36.png",
